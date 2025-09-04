@@ -1,19 +1,19 @@
-# 🌟 Rajkumar here — Turning Ideas into Code 💡➡️💻
-💻 "I’m Rajkumar, a 👨‍🎓 final-year Computer Science student passionate about 💡 innovative software solutions & 🌐 web development. I love exploring ⚡ modern technologies, designing 📱 responsive interfaces, and bringing 🎨 creative ideas to life through code."
+# 🌟 Rajkumar here - Turning Ideas into Code 💡➡️💻
+💻 "I’m Rajkumar, a final-year Computer Science student passionate about software development and web technologies. I enjoy crafting responsive interfaces and turning creative ideas into reality through code ✨."
 
 ---
 
-## 🚀 About Me
+## 🌐 Behind the Code
 
 - 🎓 B.E. in Computer Science and Engineering
-- 🔭 Currently Learning: Java & DSA
-- 💬 Open to discussions about **Web Development, JavaScript, or Frontend Tools**
-- 🎮 Hobbies: Coding, Web Development
-- 😄 Fun Fact: *“First, solve the problem. Then, write the code.”*
+- 🔭 Currently Learning: Advanced Java & Web Development
+- 💡 Open to discussions about Web Development, Java, and Frontend Technologies
+- 🎯 Hobbies: Learning new skills & exploring them, playing video games, and watching YouTube
+- 😄 Discipline ✨: My goal is to stay consistent and disciplined by strictly following the schedule I’ve set for myself✅
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔧 Developer Toolkit
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
@@ -25,13 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="60" height="60"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Coding Growth
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-180&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-180&layout=compact&theme=tokyonight)  
@@ -51,8 +51,9 @@
   <a href="https://linkedin.com/in/rajkumar1806" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Rajkumar-180" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+ <a href="https://wa.me/7418921105" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" title="WhatsApp" alt="WhatsApp" width="50" height="50"/>
+</a>
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/Rajkumar-180" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
