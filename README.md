@@ -30,6 +30,17 @@
 </p>
 
 ---
+## 🧩 Coding Profiles
+<p align="center">
+ <a href="https://leetcode.com/Rajkumar-180" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Rajkumar_180" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+  
+</p>
 
 ## 📈 Coding Growth
 
@@ -55,12 +66,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" title="WhatsApp" alt="WhatsApp" width="50" height="50"/>
 </a>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/Rajkumar-180" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/Rajkumar_180" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
+ 
   <a href="mailto:rajkumarperiyasamy2005@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Email" alt="Email" width="50" height="50"/>
   </a>
