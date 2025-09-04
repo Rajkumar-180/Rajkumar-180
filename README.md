@@ -1,4 +1,4 @@
-# 🌟 Rajkumar here - Turning Ideas into Code 💡➡️💻
+<!--edfe# 🌟 Rajkumar here - Turning Ideas into Code 💡➡️💻
 💻 "I’m Rajkumar, a final-year Computer Science student passionate about software development and web technologies. I enjoy crafting responsive interfaces and turning creative ideas into reality through code ✨,Open to discussions about Web Development, Java, and Frontend Technologies"
 
 ---
@@ -24,9 +24,9 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp; -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp; -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
+ <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="60" height="60"/>
+  <!--gff <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="60" height="60"/>
 </p>
 
 ---
@@ -79,4 +79,56 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" title="Twitter" alt="Twitter" width="50" height="50"/>
 </a>&nbsp;&nbsp;
   
+</p>-->
+# 🌟 Rajkumar | Turning Ideas into Reality 💡➡️💻  
+
+Hi, I’m **Rajkumar**, a **Final-Year CSE Student** passionate about **Software Development** and **Web Technologies**.  
+I love crafting **responsive UIs**, exploring **Java & Web Development**, and bringing creative ideas to life ✨  
+
+---
+
+## 🎓 About Me
+- 📚 **Field of Study:** B.E. – Computer Science & Engineering  
+- 🚀 **Currently Learning:** Advanced Java & Web Development  
+- 🎮 **Hobbies:** Learning new skills, Video Games & YouTube  
+- ✅ **Discipline:** Staying consistent with my schedule  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,vscode,eclipse" />
 </p>
+
+---
+
+## 🧩 Coding Profiles
+<p align="center">
+<a href="https://leetcode.com/Rajkumar-180"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/Rajkumar_180"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://github.com/Rajkumar-180"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📈 GitHub Insights
+![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-180&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-180&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rajkumar-180&theme=tokyonight)](https://git.io/streak-stats)  
+
+---
+
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rajkumar-180&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+<a href="https://linkedin.com/in/rajkumar1806"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rajkumarperiyasamy2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/7418921105"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.instagram.com/_.rajxx18._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/Rajkumar_1806"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
