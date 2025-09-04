@@ -7,9 +7,9 @@
 
 - 🎓 B.E. in Computer Science and Engineering
 - 🔭 Currently Learning: Advanced Java & Web Development
-- 💡 Open to discussions about Web Development, Java, and Frontend Technologies
 - 🎯 Hobbies: Learning new skills & exploring them, playing video games, and watching YouTube
 - 😄 Discipline ✨: My goal is to stay consistent and disciplined by strictly following the schedule I’ve set for myself✅
+- 💡 Open to discussions about Web Development, Java, and Frontend Technologies
 
 ---
 
@@ -37,8 +37,10 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/Rajkumar_180" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+<a href="https://github.com/Rajkumar-180" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="GitHub" width="60" height="60"/>
+</a>&nbsp;
+
   
 </p>
 
@@ -62,12 +64,17 @@
   <a href="https://linkedin.com/in/rajkumar1806" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   </a>&nbsp;&nbsp;
- <a href="https://wa.me/7418921105" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" title="WhatsApp" alt="WhatsApp" width="50" height="50"/>
-</a>
-  </a>&nbsp;&nbsp;
- 
   <a href="mailto:rajkumarperiyasamy2005@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Email" alt="Email" width="50" height="50"/>
-  </a>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/7418921105" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" title="WhatsApp" alt="WhatsApp" width="50" height="50"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_.rajxx18._" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="50" height="50"/>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/Rajkumar_1806" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" title="Twitter" alt="Twitter" width="50" height="50"/>
+</a>&nbsp;&nbsp;
+  
 </p>
