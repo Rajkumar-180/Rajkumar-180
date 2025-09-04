@@ -38,8 +38,10 @@
   <a href="https://www.hackerrank.com/Rajkumar_180" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
 <a href="https://github.com/Rajkumar-180" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" title="GitHub" alt="GitHub" width="60" height="60" style="filter: invert(1);"/>
-</a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         title="GitHub" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
+</a>
+
 
   
 </p>
