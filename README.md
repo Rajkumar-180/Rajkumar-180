@@ -1,15 +1,15 @@
 # 🌟 Rajkumar here - Turning Ideas into Code 💡➡️💻
-💻 "I’m Rajkumar, a final-year Computer Science student passionate about software development and web technologies. I enjoy crafting responsive interfaces and turning creative ideas into reality through code ✨."
+💻 "I’m Rajkumar, a final-year Computer Science student passionate about software development and web technologies. I enjoy crafting responsive interfaces and turning creative ideas into reality through code ✨,Open to discussions about Web Development, Java, and Frontend Technologies"
 
 ---
 
 ## 🌐 Behind the Code
 
-- 🎓 B.E. in Computer Science and Engineering
+- 🎓 Field of Study: B.E. - Computer Science and Engineering
 - 🔭 Currently Learning: Advanced Java & Web Development
 - 🎯 Hobbies: Learning new skills & exploring them, playing video games, and watching YouTube
-- 😄 Discipline ✨: My goal is to stay consistent and disciplined by strictly following the schedule I’ve set for myself✅
-- 💡 Open to discussions about Web Development, Java, and Frontend Technologies
+- 😄 Discipline : My goal is to stay consistent and disciplined by strictly following the schedule I’ve set for myself✅
+ 
 
 ---
 
