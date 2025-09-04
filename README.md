@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp; -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp; -->
@@ -38,8 +38,8 @@
   <a href="https://www.hackerrank.com/Rajkumar_180" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
 <a href="https://github.com/Rajkumar-180" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         title="GitHub" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+         title="GitHub" alt="GitHub" width="50" height="50"/>
 </a>
 
 
