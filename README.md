@@ -113,7 +113,8 @@ I love crafting **responsive UIs**, exploring **Java & Web Development**, and br
 ## 📈 GitHub Insights
 ![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-180&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-180&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rajkumar-180&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajkumar-180&theme=tokyonight)](https://git.io/streak-stats)
+ 
 
 ---
 
