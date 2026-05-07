@@ -1,5 +1,5 @@
 <!--edfe# 🌟 Rajkumar here - Turning Ideas into Code 💡➡️💻
-💻 "I’m Rajkumar, a final-year Computer Science student passionate about software development and web technologies. I enjoy crafting responsive interfaces and turning creative ideas into reality through code ✨,Open to discussions about Web Development, Java, and Frontend Technologies"
+💻 "I’m Rajkumar Periyasamy, a final-year Computer Science student passionate about software development and web technologies. I enjoy crafting responsive interfaces and turning creative ideas into reality through code ✨,Open to discussions about Web Development, Java, and Frontend Technologies"
 
 ---
 
